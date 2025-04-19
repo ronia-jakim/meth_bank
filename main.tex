@@ -1,0 +1,39 @@
+%! TeX program = lualatex
+\documentclass{book}
+
+\usepackage[pl]{template}
+% \usepackage[polish]{babel}
+
+\title{Wrocławska Księga Matematyki}
+\author{Weronika Jakimowicz}
+\date{}
+
+\makeatletter
+\fancyfoot[CE, CO]{}
+\fancyfoot[LE, RO]{\color{overlay2}\thepage}
+
+\fancyhead[RE, LO]{$ \quad $\color{subtext1}Weronika Jakimowicz $ \quad $}
+\fancyhead[LE, RO]{$ \quad $\color{green!40!subtext2}\bfseries \@title$ \quad $}
+
+
+% \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[CE, CO]{}
+  \fancyfoot[LE, RO]{\color{overlay2}\thepage}
+
+  \fancyhead[RE, LO]{$ \quad $\color{subtext1}Weronika Jakimowicz $ \quad $}
+  \fancyhead[LE, RO]{$ \quad $\color{green!40!subtext2}\bfseries \rightmark $ \quad $}
+}
+\makeatother
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents 
+
+\include{georoz/00.tex}
+ 
+\end{document}
