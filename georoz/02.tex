@@ -2,10 +2,33 @@
 
 {\color{red}TODO: narysować na sferce przesuwanie wektorów stycznych po fragmencie równika vs. poludnikiem do bieguna i w dół. I dodać wyjaśnienie po co są koneksje}
 
-Niech $X$ i $Y$ będą polami wektorowymi na powierzchni $\Sigma$ imersjonowanej w $\R^3$. Definiujemy zróżniczkowanie pola $Y$ wzdłuż pola $X$ jako wektor
-$$D_XY=(X(Y_1), X(Y_2), X(Y_3)),$$
-który ma część styczną do $\Sigma$ oraz część normalną.
+Niech $X$ i $Y$ będą polami wektorowymi na powierzchni $\Sigma$ imersjonowanej w $\R^3$. Definiujemy zróżniczkowanie pola $Y$ wzdłuż pola $X$ w $\R^3$ jako wektor
+$$D_XY=\left(X^j\frac{\partial Y^i}{\partial x^j}\right)=(X(Y_1), X(Y_2), X(Y_3)),$$
+który ma część styczną do $\Sigma$ oraz część normalną:
+$$D_XY=\nabla_XY+\II(X,Y)n_p.$$
+Część normalna, oznaczana $\II(X,Y)n_p$, nazywa się \buff{drugą formą zasadniczą} (ang. second fundamental form). W późniejszych rozdziałach zobaczymy, że jest ona powiązana z krzywizną powierzchni. 
 
+\begin{lemma}{}{}
+  Druga zasadnicza forma jest symetryczna i dwuliniowa, tj. dla dowolnych pól wektorowych $X$, $Y$ oraz gładkiej funkcji $f$
+  $$\II(fX,Y)=f\II(X,Y),$$
+  $$\II(X,Y)=\II(Y, X).$$
+\end{lemma}
 
+\begin{proof}TODO
+\end{proof}
+
+Część $\nabla_XY$ nazwiemy z kolei \buff{liniową koneksją} i będzie nam ona mówić jak powinniśmy przesuwać wektory po wiązce stycznej do powierzchni. Zacznijmy jednak od udowodnienia kilku jej własności.
+
+\begin{lemma}{}{}
+  Dla dowolnej powierzchni $\Sigma$ oraz pól wektorowych $X$, $Y$ i $Z$ oraz gładkiej funkcji $f$ zachodzi
+  \begin{enumerate}
+    \item $\nabla_{fX}Y=f\nabla_XY$
+    \item $X\langle Y,Z\rangle=\langle\nabla_XY, Z\rangle+\langle Y, \nabla_XZ\rangle$
+    \item $\nabla_XY-\nabla_YX=[X,Y]$, czyli $\nabla$ jest beztorsyjna
+  \end{enumerate}
+\end{lemma}
+
+\begin{proof}TODO
+\end{proof}
 
 

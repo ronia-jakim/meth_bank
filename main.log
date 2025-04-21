@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/nixos.org)  (format=lualatex 1980.1.1)  20 APR 2025 18:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/nixos.org)  (format=lualatex 1980.1.1)  21 APR 2025 18:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -1701,7 +1701,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
 
-[4<./luatex.zBUrD3/1.png>]
+[4<./luatex.al57Uz/1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
@@ -1798,7 +1798,11 @@ Overfull \hbox (8.76195pt too wide) in paragraph at lines 3--4
 \TU/Cantarell(0)/m/n/10 TODO: narysować na sferce prze-suwanie wek-torów sty-cznych po frag-men-cie równika vs. polud-nikiem do bieguna
  []
 
-))
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 20.39996pt, for example:
@@ -1817,7 +1821,20 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 1 (U+0031) in font nullfont!
 Missing character: There is no p (U+0070) in font nullfont!
 Missing character: There is no t (U+0074) in font nullfont!
-] (./main.aux (./georoz/00.aux))
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[9] (./main.aux (./georoz/00.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1827,19 +1844,19 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51605 strings out of 476447
+ 51615 strings out of 476447
  125086,2373549 words of node,token memory allocated
- 793 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 27 attribute, 92 glue_spec, 27 attribute_list, 4 write nodes
-   avail lists: 1:2,2:7111,3:5853,4:210,5:87,6:58,7:3856,8:67,9:756,10:5,11:140
- 72438 multiletter control sequences out of 65536+600000
- 97 fonts using 13940071 bytes
+ 805 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 30 attribute, 92 glue_spec, 30 attribute_list, 4 write nodes
+   avail lists: 1:2,2:7805,3:6249,4:210,5:88,6:58,7:4318,8:67,9:833,10:5,11:140
+ 72442 multiletter control sequences out of 65536+600000
+ 97 fonts using 13989991 bytes
  117i,13n,129p,1192b,2854s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/1fvgzyg5q3bq21qxl5ds0mvghfrmmsyn-cantarell-3.2-tex/fonts/opentype/gnome/cantarell/Cantarell-Regular.otf></nix/store/1fvgzyg5q3bq21qxl5ds0mvghfrmmsyn-cantarell-3.2-tex/fonts/opentype/gnome/cantarell/Cantarell-Bold.otf></nix/store/1fvgzyg5q3bq21qxl5ds0mvghfrmmsyn-cantarell-3.2-tex/fonts/opentype/gnome/cantarell/Cantarell-Regular.otf></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmex10.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmr8.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (8 pages, 141400 bytes).
+Output written on main.pdf (9 pages, 147999 bytes).
 
-PDF statistics: 162 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 131072)
+PDF statistics: 173 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 131072)
  64 words of extra memory for PDF output out of 10000 (max. 100000000)
 

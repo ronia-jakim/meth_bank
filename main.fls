@@ -400,8 +400,8 @@ OUTPUT main.toc
 OUTPUT georoz/00.aux
 INPUT ./georoz/00.tex
 INPUT ./georoz/01.tex
-OUTPUT luatex.zBUrD3/1.png
-INPUT ./luatex.zBUrD3/1.png
+OUTPUT luatex.al57Uz/1.png
+INPUT ./luatex.al57Uz/1.png
 INPUT /nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
 INPUT /nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm

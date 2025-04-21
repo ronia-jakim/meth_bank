@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1745165522.90314 "main.tex" "main.pdf" "main" 1745165526.8034 0
+["lualatex"] 1745252447.04973 "main.tex" "main.pdf" "main" 1745252451.01916 0
   "/home/maruda/.texlive2023/texmf-var/luatex-cache/generic/fonts/hb/979720906fc0e9d4bc46ccaa35d2ca270181ac085714bed3502c64e892f80449.luc" 1743101630.20885 128415 e4d192abc326a4dc4f50ff596b3217bc ""
   "/home/maruda/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/cantarell-bold.luc" 1742663935.36658 173137 d1cd73a5b6a0ad74eb829d2302b29393 ""
   "/home/maruda/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/cantarell-extrabold.luc" 1742663935.43058 172324 980f6034d2a29d3616e2e8d386f6cd5d ""
@@ -360,15 +360,15 @@
   "/nix/store/s1awgirjjjx9q784fbncpzr9z75mllx2-texlive-combined-full-2023-final-texmfdist/tex/luatex/luaotfload/luaotfload.lua" 1 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/nix/store/vwv57nhj45xqmv91cxf042mqkl8psab0-texlive-combined-full-2023-final/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467763 77543e102942fb8ccaad6f92de0d9c00 ""
   "/nix/store/vwv57nhj45xqmv91cxf042mqkl8psab0-texlive-combined-full-2023-final/share/texmf-var/web2c/luahbtex/lualatex.fmt" 1 12274533 553be551f688c88b6910a8e628252a9a ""
-  "georoz/00.aux" 1745165526.47508 2061 2c384e3cc5a922708fc86653a07191e1 "lualatex"
+  "georoz/00.aux" 1745252450.67879 2062 f49bdfa8e7c0b7b35b429d3f45575440 "lualatex"
   "georoz/00.tex" 1745152404.65839 200 50fdaa92c04c0352a1aa8e968d61ea8f ""
   "georoz/01.tex" 1745164848.13185 10348 467e1122fc5c8eb32178cbcce51c5939 ""
-  "georoz/02.tex" 1745165521.15826 459 7339de608eea884e6268ee6219aa991e ""
-  "main.aux" 1745165526.47508 279 5c751577a5c6a78059b1a1e760a814a9 "lualatex"
-  "main.out" 1745165526.47608 917 0ba760be669b129a36705b4209b8df01 "lualatex"
+  "georoz/02.tex" 1745252446.90286 1624 362b7c3c46d5126e7b2baf1159d4d5ea ""
+  "main.aux" 1745252450.6798 279 b0efaea77f91a91fe14b6cbed93c3fc6 "lualatex"
+  "main.out" 1745252450.6798 917 0ba760be669b129a36705b4209b8df01 "lualatex"
   "main.tex" 1745081705.33835 851 1b8f941aed5a9ec8cc33e3249dbc34b0 ""
-  "main.toc" 1745165526.47608 500 00826041240910d071f8bbf7314a7057 "lualatex"
-  "template.sty" 1745165431.7015 10944 9314aae526afe1efacf9dfbffce1aa37 ""
+  "main.toc" 1745252450.68079 500 00826041240910d071f8bbf7314a7057 "lualatex"
+  "template.sty" 1745251017.4905 10942 20c9bbf374946158657b005e6a4c6f84 ""
   (generated)
   "georoz/00.aux"
   "main.aux"
